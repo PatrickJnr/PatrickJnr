@@ -2,6 +2,8 @@
 <h3 align="center">Screenarchery is my passion</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrickjnr" alt="patrickjnr" /> </p>
+[![Twitter Badge](https://img.shields.io/badge/-@sakshamtaneja-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_PatrickJnr)](https://twitter.com/_PatrickJnr) [![Linkedin Badge](https://img.shields.io/badge/-sakshamtaneja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/grimtech/)](https://www.linkedin.com/in/grimtech/)[![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/patrickjrc)
+[![GitHub followers](https://img.shields.io/github/followers/patrickjnr?label=Follow&style=social)](https://github.com/patrickjnr/?tab=follow)
 
 <p align="left">
 <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
@@ -14,7 +16,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickjnr&layout=compact&hide=html" alt="patrickjnr" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=patrickjnr&show_icons=true" alt="patrickjnr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patrickjnr&show_icons=true" alt="patrickjnr" /></p>
 
 <p align="center">
 <a href="https://twitter.com/_patrickjnr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_patrickjnr" height="30" width="30" /></a>
