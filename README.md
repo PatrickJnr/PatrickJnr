@@ -2,7 +2,10 @@
 <h3 align="center">Screenarchery is my passion</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrickjnr" alt="patrickjnr" /> </p>
-[![Twitter Badge](https://img.shields.io/badge/-@sakshamtaneja-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_PatrickJnr)](https://twitter.com/_PatrickJnr) [![Linkedin Badge](https://img.shields.io/badge/-sakshamtaneja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/grimtech/)](https://www.linkedin.com/in/grimtech/)[![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/patrickjrc)
+
+[![Twitter Badge](https://img.shields.io/badge/-@sakshamtaneja-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_PatrickJnr)](https://twitter.com/_PatrickJnr)
+[![Linkedin Badge](https://img.shields.io/badge/-sakshamtaneja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/grimtech/)](https://www.linkedin.com/in/grimtech/)
+[![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/patrickjrc)
 [![GitHub followers](https://img.shields.io/github/followers/patrickjnr?label=Follow&style=social)](https://github.com/patrickjnr/?tab=follow)
 
 <p align="left">
