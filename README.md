@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-PatrickJnr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/grimtech/)](https://www.linkedin.com/in/grimtech/)
 [![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/patrickjrc)
 [![GitHub followers](https://img.shields.io/github/followers/patrickjnr?label=Follow&style=social)](https://github.com/patrickjnr/?tab=follow)
-![Twitch Status](https://img.shields.io/twitch/status/patrickjr?style=flat-square)
+[![Twitch Status](https://img.shields.io/twitch/status/patrickjr?style=flat-square)](https://www.twitch.tv/patrickjr)
 
 <p align="left">
 <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
