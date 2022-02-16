@@ -2046,7 +2046,7 @@ Game\ProductionAssets\Animarions\FoxyAnim</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.34m out of 85m users</span>
+                                    <span class="gh">ranked 1.35m out of 85m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">6</div>
                                     </div>
@@ -2239,7 +2239,7 @@ Game\ProductionAssets\Animarions\FoxyAnim</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Feb 2022, 12:23:43 (timezone Europe/London) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 16 Feb 2022, 13:17:32 (timezone Europe/London) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
