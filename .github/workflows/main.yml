@@ -51,3 +51,8 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_stars: yes
           plugin_stars_limit: 4
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam: yes
+          plugin_steam_user: "76561197991348132"
+          plugin_steam_sections: recently-played
+          plugin_steam_achievements_limit: 0
