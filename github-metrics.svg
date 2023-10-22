@@ -30,7 +30,7 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -1307,6 +1307,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1328,7 +1333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>martymcmodding/METEOR</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Marty's Extra Effects for ReShade</div>
@@ -1508,7 +1513,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        117
+                                        118
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1566,7 +1571,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.42436687200549805 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.5092402464065646 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1796,7 +1801,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="91.07607607607608 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="91.54154154154155 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1819,12 +1824,12 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 72.4k out of 107m repositories</span>
+                                    <span class="gh">ranked 72.1k out of 100m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">588</div>
+                                        <div class="value">591</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 588 stars</div>
+                                <div class="text">Maintaining a repository with 591 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2075,7 +2080,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.02m out of 107m repositories</span>
+                                    <span class="gh">ranked 5.02m out of 100m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2222,15 +2227,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGgABAQEBAQEBAAAAAAAAAAAABgcFBAIDCP/EADEQAAEDAwMDAgQEBwAAAAAAAAECAwQABREGByESEzEiQSMyQlEIFmFxFyYzRHOxwf/EABsBAAIDAQEBAAAAAAAAAAAAAAQGAgMFBwAB/8QAJxEAAgEEAQMEAgMAAAAAAAAAAQIDAAQFESESMUEGExQiMmFxgdH/2gAMAwEAAhEDEQA/ABmwG1MXVbK7velLENskISg9JJHmrv8Awk0klHpZl8eB3aOfhwd7O3rWB/cLxVQXJz7+pXuPaufZXMyi4dFYjR1qtOG2BUGhTu1GlvmDUnq+3drNuG2mkobCnXW5IQjnPdpxMucaJ/XeSFe/NTXdLVbEi2GPbH0lQ+fFB2r315IAC2v7o2O2XyOK5rLpHRl2lqjsokhST6QXfJrad2q03yezJBHj4tDtr4bUy5R31SeiQFZ6c+atj3BwrPHj96nk2ntJAqyHR/dXNBGH0BU+G12nQCrtyAf8lTfdbam3Q7NIudmLgUynqUlas1f3BnKQcJ+5otuJlOjbqCBgs8frQtlk7qOdD1k8jzXnt42QjVYf4eXf5AQDwQ+und6uDsKA+/HbLjoHAFTXYQrToRBPkPL8VSy8lY5xj3BqeQQfOkYjf25qdrGPaU96jl7emzJKrg6H2wPmBVwKD6hCiw5IgyA6j60jk1Xd0pIYswbbSj4hIykYqOW5owpwbdPU279B96fvTu7kDsoJ0K+ZFzHEWC170XPmW6ULi0lwlvnGa/S1gu5u9oZlLHS4oeKkmn7I03KbR0gxnzz+lWOHakRLW2mIhRbHuKI9Xenw0SvHy1YOKzCTymJjXt13gdfFFtwnevR10x4DVKIzPdUUuGim4KQjSV2QDx2j/uudxYqeORG1xsU0N09DDzqjmwjiU6GSlZ8vLps+8luQoE+mpzsrIQ3oVBWcHvLpROnJUVYPtV1+h+XIQPNW46PqhU/qsrc+6wVWcRik976V54FSNwmUllxxXS4g+lY4Fduq56rleFg9QbTwOeM12WKwPT2ipaglI+XinjDdOOhUy9v9oG9hM4aKI/zW9pS5LgNNIWFPOBWUnPFXnTF8afhIeSAoEYW17ioIuC5DlstHAWnB4qhWhT0VTT7fAwOpFOLyJdRKDSJeWj2shkUc+aZ3F5CHllgfNz+1BNdFStL3X1clr/tNUKRJjqcQOcUH3CiOI0vc3eoj4dLVzZAODrsaaMbf+7AQTzqgu1bTv5FS4nIT3Vgivte5UmJFdV6k5HGaHbS6+g2e3u2u7ghlRJS4TwCaoEncDSjkMsuLbd+xrDfFs1w0jHgndalplRHbBB3FT9qE9JkoWpJ6FHJOKotoktNRUMpSMeCRWW9rPTJgqaZeZSo+P0rgtup7K24e5PZCTU7u1klcBfxFEW17CIyXP2p3c7alUZt9gFbieeqnOkYyZNoUp9Ke4lPnFTSxbi2FhzsyJzBj++a32dztMQnuiPc2O0ryM0zWhCwhT3pTy6NNKGRuKb29jtl1QbUEDyD71i7hNNjRd3KSOlTPg+RXGxuppVLhxc2AAM8mgW7+61od05IttkfRKdlgpWpH0irpSrDZNZ0UbQsdea//2Q==" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAABgABAgcIBQT/xAAsEAABAwQBAwMDBAMAAAAAAAABAgMEAAUGESEHEjFBUWETIiMIFDKRJHHx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIEAwD/xAAiEQACAQQDAAIDAAAAAAAAAAABAgADBBESITFBImETFCP/2gAMAwEAAhEDEQA/AMrqVs0t0j5pxxyaIAIyZxPpiPn2qYJIHaOa7WOY3Pvz3+I0fpjysjgUWoxTHbaO283pgvjy2gkEVgbgKdR3KktWdd36lcbI2VDdQH8vf4qyzjeKzx2W29MtPHhKXFE7NDWS4jcLIA66j6kc+HUDgigLgMdT3Oa0IXdIMb5pA6O6c81H1qjAAyJKDz9x+d8138SsTl+uqGBw2OVn2FcM8qFWJhim7ZiF7uHdp9bPY0fYg1jcEoML3KrVFdtn8kcvyZMRkWWxFLURkdq3EcKUr15rwYd0+yfOVF+1QXn4u+1UkjaRQiVmQ7pxQT3K2Vn02fJrZFz6n4vhHSuOzhtxgOXRMdGm0J3+TtGyof73XUqQpjJnXFw1RsDqZ6yzo/mGKxnZz0B12IwnvW+2nQQK5mH5auG5+zuu5Nud+11Ln3FI+CfFbD6H5VfM3wt2dl8VkIcKkgloJQtPyKw/mCGGctuyIRBYEpzt14/kfFGpSWoItCu1Nvqe/OceFnnh2NzEf+9s/B51Qsodqqsd51F26ZsLeX3SorqySfPb4FV0RpzdJbkn4t5NLpEB/InsbRChVh4o03cMHvUUbL7DRcSPfZquyo7Bonwe/iyXUKfG47o7XAfUUbnLDIi2jKDq8G3AUbGtEcGtW9COhERu3xchy5lS5SgHY0YnQA1sFQ9QRVG5RjptU1m7wUiRb3FfV4GwCedGrRi/qbuMSAxGFuH4m0tg6HoNU1OqKgxFr0GQ58ht1av/AFAnwn8ewvDZ0KAQW3HkIT9yfdOtarIs+HKiTnmJ7a25KFEOIV/IH13WiD+qG5rZWgW7ThGkq0ODVQ2OyTMsvcm4ydpYcdU686rxyd6ovUFJYKNFqjYHU97TDdv6Ypcd2l+U6tASfb0qvlH79CjDqDfmZ8hqBAAEWKOwa8Ejgmg1XKtis7fI+TezW7KD+aSJOzTqOxUSNUqpGAMGRnk5hZi+XyrOn6DgEmKfLax3f1uiIvYXeiXpTL0OQrz+TSf6FVmSf+VNOwOCD8VMbcE7LwZWl2ddX5EsdLWEWw/VAemOp5AQ5xXJyTNnp0f9nbmhDieO1A0SPkig4lRHkCojZVo8fND9fnZuYTd4XSnxFz3Ek7J9aj6mkd7pAEmqcjGBI+c/c//Z" alt="" />
                             <div class="about">
-                                <div class="name">Battlefield™ V</div>
+                                <div class="name">Tom Clancy's The Division 2</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Action
+                                        Action, Adventure, RPG
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2238,7 +2243,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        3 hours played
+                                        34 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2246,7 +2251,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 20 Oct 2023
+                                        Last played on 21 Oct 2023
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -2255,7 +2260,7 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            7 / 21 achievements unlocked
+                                            0 / 0 achievements unlocked
                                         </div>
                                     </div>
                                 </div>
@@ -2266,7 +2271,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Oct 2023, 02:04:14 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Oct 2023, 02:10:26 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
