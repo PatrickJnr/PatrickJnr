@@ -34,10 +34,10 @@
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -1324,6 +1324,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1345,7 +1350,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KiwifruitDev/SFM-Asset-Browser</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Issue tracker &amp; source code for my SFM asset browser script</div>
@@ -1398,7 +1403,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KiwifruitDev/sfm_reference_image</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Show an image in a tab to help with reference or inspiration.</div>
@@ -1451,7 +1456,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KiwifruitDev/sfm_resolution_patch</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Patch SFM to use custom viewport resolutions.</div>
@@ -1504,7 +1509,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KiwifruitDev/DirectorsCut</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A community-driven filmmaking mod for the Source engine.</div>
@@ -1657,7 +1662,7 @@ forgot javascript:</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="33.46132785763176 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1910,7 +1915,7 @@ forgot javascript:</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 71k out of 207m repositories</span>
+                                    <span class="gh">ranked 71k out of 204m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">655</div>
                                     </div>
@@ -2166,7 +2171,7 @@ forgot javascript:</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.24m out of 207m repositories</span>
+                                    <span class="gh">ranked 5.25m out of 204m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2363,15 +2368,15 @@ forgot javascript:</div>
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAQUBAQEAAAAAAAAAAAAABwEEBQYIAgAD/8QALhAAAQMDAwEHAwUBAAAAAAAAAQIDBAAFEQYSITEHEyIyQVFhFCNCCBVicZGB/8QAGQEBAAMBAQAAAAAAAAAAAAAABAADBQIB/8QAJREAAgIDAAIBAwUAAAAAAAAAAQIAAwQREiExIgUTUSMyQXGB/9oADAMBAAIRAxEAPwDM94ub1zld4/gED0FMNx+KRwgqpMdM9K9/b4k1HsKDMmNvKiMLebZG9wpHlHuaIuj+xu/6itn1hWiEhXKUOp5UPipD9N08RdRTo4aafVJaCAy4jdv56CtS2rTLcm3F67ofYkFRAbaXsAT6DArPyL7QxVB/suRYArx2R2dyxEW6Qpc+OjLqtxxn14oJamsMuwye7kDc0eErA4PxW3pekrc/MdjtRpTBKBiR3ngc+Me9APV1mhuq1BDBJaitbm+8OSlWeTmi491tT/M7EQydpuALefSnNumuwZaH2cbgfUU2cTtdUkcgHFInG4Vsg/iB1/E8vzUlKvzUlej8SQ7/AKSra3P1TeFqA75iMlTRP4nJ5rQlrXKiamVp12QoqiH6tb6ySHQv8B/VZC7HtUr01qNSUSUREzgllUhflbGc5Nazm3a8RY8TMJNwbkJAE5hIG4Y9+tCvTbHcurMs8ezRYd1kXVqQ8VuJ2qQtzcgY9h6GszdtLc6KzPmxUFLEhSkOY6gA9TRjmR0aVNwvVyuZDclgJDK1EhB69Ky92kdoEzUjzsNsd3AQo7U45V8/1Rq0ZrAAdgS4twmoPuvNKnzCkPSlT5hWt/cHOl9eetTGmtOTb/LS1GTtR+ThHCaZ2uEbhdI8RGfuqxRvWWdNWBpENnO3zlI5B9yaTj0d769CGyLjWND3IGPo212VURMtYW84vatR5CR74qyWq+z7Pd0W6yXXvYquUpeUV5Psn2qOvN3si7UkIgy13Ujd9SXMtjPxVeas1+bZau8eG4qMlWQ+MbQaoyAl6lQNTqkvV8zCbdp8u4sD96eSiMk+NKxnf8CqPdNOQb5KXJksBg7djSEeHgdCcU7t11bMNTUyLIn3F7woS2rwj/lRs+7XmwWx6DIZSyt7JAdTlSQemDR/p9KVN0/mW5Nllg0spOotITLWlbraS7HTyVJ/EVWAMK45o22GWm4wCxLO9/b4k+hFDHWlqTab0tts/bX4gR0GfStK+lee09QuPcxPLe4100+I92aczhQPBozRLnFmM91LwncMZV60D58KRb5Gx9JSvGQRTiFe5sUAJXuT/LmucbI+2NSZOMXPQMKd1025ICW7S6FLeOG0dSo+1Ttx7PL5EtiFXG7/ALfEKAVBZOwe/AoY6f1o7AvlumvJcUI7m4pB4NGaX2vxrjbFtLkRSFDxJdRuxQsy5lf9MeIrFpPOrJ3o7T027aTeRYZUQutKUCpTeVqx6g1SLzo+5KvrsbU04NraQFqCs5Un0Ap9pftKjWabIeMlpJXwA2Nqf8qt637RWb7qByd3TihsCAQrriq8Rilm2Hid5NfS/H3LIH7bZ4vcWwd4QMbzyf8AaGet5SX3mkE/cCtys+1fCbqZ11G2OjZzkE1DNNSLhMAGXHVnpWpdkBl5EBj47Bu3n//Z" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAABQYEBwECCAP/xAArEAABAwMDAgYCAwEAAAAAAAABAgMEAAURBhIhMUEHExQiUWEyQiRSoXH/xAAXAQEBAQEAAAAAAAAAAAAAAAABAgAD/8QAHhEBAQACAgIDAAAAAAAAAAAAAQACESExAxIiUWH/2gAMAwEAAhEDEQA/AOVzx3zWB2B4r0bQp5xKWhlauAkUx27STkpP8mczFWOdjgOaQ31Ch3LISVKATyTTPZtCaguwSuNbng0ejhHBp20tp+xWl9LzsxmQ+PnkZ/5VjtXSTJbDUZAZZHAUjgf5R1NTyvCTUCWSvancP0xyaWrzo6/2dtT1wtr7TKf3I4rra0aTcdg+qcnKKiMgbjU5vStzciqWtlMpn+q07h/tSO+p1cOdOlZOO3arz8RvDqPcPUybK15FyZyp2P2WPhI7VRrqFNuLbcSUqQSlST1yOtVE2eHtoE+bJlOIKmoiPMwO/wBUxNWyUoSpqWy44chLXcDtQm1SXU6eRHhqCWUuKVlPClfRPxUZbd2cypLrqQOm0kbvqrMvjouZjvJybyfh3Fslx9lxoZznNFtFXK6L1DFiQHVq8xe3C8kUMaud3gqCwnfsOSlxO6nzSfiVa4Qc9daA3PWnaiQlICUH5qc11dMT9nlzVU2K8mG+5hse1W3jnvVjaT196RhLclxLrOMADtVGImMzHFPjjcd24nIOaKtYaj73CU9wM9a5HFS7mrWVzQq9mZGUlCVnIA/b6qivFy1MsXFu5RkBDUn27QMe4dTTxO1NHkyhF8sqUgcK/rS/4ghMvSza1EFTSioGugxDtAPQrZp6ZJnKC3XwW20H9SD1oszc4DjW1LiPmki2utzWAk8uA/gOBW09CmGVM8JW5xgdU/dPuvFOPjBX7rOscODOlNowh3J5xVgXrQempVsR6mKQ4R+hArl1cyXbX0emkOpWADncaedN+Ks+K0I9zJebHG7vUZCuys1Pg0ZHtb2ILi1NnqFqzx9UPviHpEV2M0sNuYwnNFbRrW1Tyn1EptTJGSlPCj9ZpDuV2dl6tW7GStLAOPLzyU9qDdqQiIIoSuQtDjnQqSMVtd45vGl5Qh8FgFSs85r3uSmnmnNxDbpTwT0FBJFyXpC3FlpxLzsrPmA8+3rSRVula0HKFFJ+jiicBt51Bkb1LUOOTmhdSoMxcYkD8D2qopsxsPHe4k5HxUeK3FQ9uknKfjNayLgtw+wAJqEo7jnvWtOEAoWz59qQB5ZyWyMk0BuV2lSbiZCleW4njCeMYrW0XWRa1rXF27lDHuGQKhOLU64tasblEqUa1qau8TXBhTuahPPuvq3POKWfs5rQ4rFa1//Z" alt="" />
                             <div class="about">
-                                <div class="name">Fallout: New Vegas</div>
+                                <div class="name">PUBG: BATTLEGROUNDS</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Action, RPG
+                                        Action, Adventure, Massively Multiplayer, Free to Play
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2379,7 +2384,7 @@ forgot javascript:</div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        197 hours played
+                                        8 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2387,7 +2392,7 @@ forgot javascript:</div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 13 May 2024
+                                        Last played on 14 May 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -2396,7 +2401,7 @@ forgot javascript:</div>
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            12 / 75 achievements unlocked
+                                            0 / 37 achievements unlocked
                                         </div>
                                     </div>
                                 </div>
@@ -2407,7 +2412,7 @@ forgot javascript:</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 May 2024, 02:10:09 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 May 2024, 02:10:42 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
