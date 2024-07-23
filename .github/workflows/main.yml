@@ -30,7 +30,7 @@ jobs:
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
-          plugin_activity_limit: 5
+          plugin_activity_limit: 2
           plugin_activity_load: 300
           plugin_activity_visibility: public
           plugin_introduction: yes
@@ -54,4 +54,4 @@ jobs:
           plugin_steam_user: "76561197991348132"
           plugin_steam_sections: recently-played
           plugin_steam_achievements_limit: 0
-          plugin_steam_recent_games_limit: 6
+          plugin_steam_recent_games_limit: 3
