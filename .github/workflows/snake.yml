@@ -20,7 +20,8 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: github-snake.svg
+          outputs: |
+            dist/github-snake.svg
 
       - name: List files in dist directory
         run: ls -al dist/
