@@ -1345,7 +1345,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jckli/gitcloser</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔎 Find how close you are to another GitHub user in less than 20 seconds</div>
@@ -1972,7 +1972,7 @@ this hates me</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 71.1k out of 208m repositories</span>
+                                    <span class="gh">ranked 71.1k out of 210m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">672</div>
                                     </div>
@@ -2232,7 +2232,7 @@ this hates me</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.32m out of 208m repositories</span>
+                                    <span class="gh">ranked 5.32m out of 210m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2473,7 +2473,7 @@ this hates me</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jul 2024, 07:42:52 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jul 2024, 07:45:42 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
