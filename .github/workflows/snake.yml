@@ -1,10 +1,10 @@
-            - name: generate-snake-game-from-github-contribution-grid
+- name: generate-snake-game-from-github-contribution-grid
   # You may pin to the exact commit or the version.
   # uses: Platane/snk@aebc3a92857730857d5a96010a3538f16bbec662
   uses: Platane/snk@v3.0.0
   with:
     # github user name
-    github_user_name: 
+    github_user_name: PatrickJnr
     # list of files to generate.
 one file per line. Each output can be customized with options as query string.
 
